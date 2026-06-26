@@ -30,6 +30,7 @@ g++ loop11.cpp -o loop11.exe
 | [0009-palindrome-number](https://github.com/abdulhamza10/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/abdulhamza10/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abdulhamza10/DSA/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/abdulhamza10/DSA/tree/master/0292-nim-game) |
 ## Simulation
 |  |
 | ------- |
@@ -46,4 +47,12 @@ g++ loop11.cpp -o loop11.exe
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abdulhamza10/DSA/tree/master/0231-power-of-two) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abdulhamza10/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abdulhamza10/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
