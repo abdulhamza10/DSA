@@ -27,6 +27,7 @@ g++ loop11.cpp -o loop11.exe
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abdulhamza10/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/abdulhamza10/DSA/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/abdulhamza10/DSA/tree/master/0258-add-digits) |
 ## Simulation
 |  |
