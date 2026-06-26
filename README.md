@@ -26,6 +26,7 @@ g++ loop11.cpp -o loop11.exe
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/abdulhamza10/DSA/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/abdulhamza10/DSA/tree/master/0258-add-digits) |
 ## Simulation
 |  |
