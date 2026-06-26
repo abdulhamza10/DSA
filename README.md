@@ -20,3 +20,19 @@ g++ loop11.cpp -o loop11.exe
 ./loop11.exe
 ```
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abdulhamza10/DSA/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abdulhamza10/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abdulhamza10/DSA/tree/master/0258-add-digits) |
+<!---LeetCode Topics End-->
